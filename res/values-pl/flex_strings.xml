@@ -30,8 +30,8 @@
     <string name="additional_options_title">Additional options</string>
 
     <!-- FlexOS Version -->
-    <string name="flex_version">FlexOS version</string>
-    <string name="flex_version_default">Unknown</string>
+    <string name="flex_version">Wersja FlexOS</string>
+    <string name="flex_version_default">Nieznane</string>
 
     <!-- FlexControl -->
     <string name="flex_control_title">FlexControl</string>
